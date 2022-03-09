@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PepePgGit/PepePgGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+Hi, I am Paweł. I am a 3rd year IT student at the University of Technology in Gdańsk. I am currently working in a team on an engineering project based on blockchain technologies.
+
+### What do I do for fun?
+- Working out regularly
+- Listening to music
